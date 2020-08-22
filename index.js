@@ -2,7 +2,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'NzQ2MjA2OTY3MTEzOTczODgw.Xz89ZA.VizFnHBNFnrdlxjJNtRqJSnx0gM'
+const token = ''
 
 const PREFIX = '-';
 
